@@ -1,5 +1,5 @@
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/CI_CD.yml/badge.svg?branch=master)
+![example branch parameter](https://github.com/farhandroid/CounterApp/actions/workflows/CI_CD.yml/badge.svg?branch=master)
 ![Docker](https://img.shields.io/badge/-Docker-orange)  ![Docker](https://img.shields.io/badge/%20-Redux-blueviolet)
 
 ![Docker](https://img.shields.io/badge/-React-red) 
